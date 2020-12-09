@@ -27,6 +27,7 @@ body{
   }
 .navbar2 {
     overflow: hidden;
+    width: 1400px;
     background-color: rgb(119, 119, 119);
     height: 38px;
 }
@@ -214,8 +215,8 @@ input[name="r"]{
     margin: auto;
     overflow: hidden;
     margin-top: 0px;
-    margin-left: 885px;
-    margin-right: 145px;
+    margin-left: 1135px;
+    margin-right: -200px;
 }
 .sliderArtistas3 ul{
     display: flex;
@@ -239,8 +240,8 @@ input[name="r"]{
     margin: auto;
     overflow: hidden;
     margin-top: 0px;
-    margin-left: 455px;
-    margin-right: 545px;
+    margin-left: 1135px;
+    margin-right: -200px;
 }
 .sliderArtistas2 ul{
     display: flex;
@@ -264,8 +265,8 @@ input[name="r"]{
     margin: auto;
     overflow: hidden;
     margin-top: 0px;
-    margin-left: 50px;
-    margin-right: 965px;
+    margin-left: 1135px;
+    margin-right: -200px;
 }
 .sliderArtistas ul{
     display: flex;
@@ -326,59 +327,62 @@ input[name="r"]{
     margin-left: 0px;
     color: white;
 }
+.espacio{
+    margin-bottom: 1000px;
+}
 .styleh2artists{
     font-size: 16px;
     font-style: oblique;
-    margin-top: 120px;
+    margin-top: -790px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ac3c3c;
-    margin-right: 1080px;
+    background-color: black;
+    margin-right: 60px;
     text-align: center;
-    margin-left: 160px;
+    margin-left: 1160px;
     color: white;
 }
 #hrartists{
     margin-top: 0px;
-    margin-right: 1033px;
-    margin-left: 120px;
+    margin-right: 20px;
+    margin-left: 1120px;
     margin-bottom: 10px;
-    background-color: #ac3c3c; height: 2px; border: 0;
+    background-color: black; height: 2px; border: 0;
 }
 .styleh2artists2{
     font-size: 16px;
     font-style: oblique;
-    margin-top: -234px;
+    margin-top: 80px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ac3c3c;
-    margin-right: 670px;
+    background-color: black;
+    margin-right: 60px;
     text-align: center;
-    margin-left: 575px;
+    margin-left: 1160px;
     color: white;
 }
 #hrartists2{
     margin-top: 0px;
-    margin-right: 623px;
-    margin-left: 530px;
+    margin-right: 20px;
+    margin-left: 1120px;
     margin-bottom: 10px;
-    background-color: #ac3c3c; height: 2px; border: 0;
+    background-color: black; height: 2px; border: 0;
 }
 .styleh2artists3{
     font-size: 16px;
     font-style: oblique;
-    margin-top: -234px;
+    margin-top: 80px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ac3c3c;
-    margin-right: 270px;
+    background-color: black;
+    margin-right: 60px;
     text-align: center;
-    margin-left: 1000px;
+    margin-left: 1160px;
     color: white;
 }
 #hrartists3{
     margin-top: 0px;
-    margin-right: 230px;
-    margin-left: 960px;
+    margin-right: 20px;
+    margin-left: 1120px;
     margin-bottom: 10px;
-    background-color: #ac3c3c; height: 2px; border: 0;
+    background-color: black; height: 2px; border: 0;
 }   
 .divnewsweek{
     margin-top: 10px;
@@ -432,7 +436,7 @@ margin-top: -200px;
 margin-left: 370px;
 font-family:  'Big Shoulders Stencil Display', bolder;
 font-weight: 900;
-margin-right: 40px;
+margin-right: -40px;
 font-size: 34px;
 position: relative;
 }
