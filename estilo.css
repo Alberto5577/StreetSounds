@@ -651,5 +651,25 @@ footer{
     margin-right: 70px;
     border-color: rgb(185, 24, 24);
     height: 2px;
-
+}
+.hrfmsM{
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-color: rgb(51, 185, 24);
+    height: 2px;
+}
+.hrfmsC{
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-color: rgb(25, 4, 118);
+    height: 2px;
+}
+.hrfmsA{
+    margin-top: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    border-color: rgb(16, 162, 179);
+    height: 2px;
 }
