@@ -692,5 +692,6 @@ footer{
     flex-direction: row;
 }
 .songsgenre{
-    margin-left: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
 }
