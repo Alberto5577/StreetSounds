@@ -333,7 +333,7 @@ input[name="r"]{
 .styleh2artists{
     font-size: 16px;
     font-style: oblique;
-    margin-top: -790px;
+    margin-top: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: black;
     margin-right: 60px;
@@ -673,11 +673,24 @@ footer{
     border-color: rgb(16, 162, 179);
     height: 2px;
 }
-.newsplantilla{
-    
-}
 .hrplantilla{
     border-color: #202020;
     height: 2px;
     margin-right: 450px;
+}
+.genreh2{
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+.genresongs{
+    margin-right: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.songsgenre{
+    margin-left: 10px;
 }
