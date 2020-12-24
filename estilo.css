@@ -312,7 +312,7 @@ input[name="r"]{
     margin-left: 1050px;
     margin-right: 20px;
     padding-bottom: 0px;
-    margin-top: -920px;
+    margin-top: -720px;
     display: flexbox;
     flex-direction: column;
 }
@@ -321,10 +321,10 @@ input[name="r"]{
     font-style: oblique;
     margin-top: -15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ac3c3c;
-    margin-right: 160px;
+    background-color: black;
+    margin-right: 130px;
     text-align: center;
-    margin-left: 0px;
+    margin-left: 30px;
     color: white;
 }
 .espacio{
