@@ -333,7 +333,7 @@ input[name="r"]{
 .styleh2artists{
     font-size: 16px;
     font-style: oblique;
-    margin-top: 40px;
+    margin-top: -380px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: black;
     margin-right: 60px;
@@ -694,4 +694,10 @@ footer{
 .songsgenre{
     margin-left: 30px;
     margin-bottom: 30px;
+}
+.aboutUs{
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
 }
