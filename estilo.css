@@ -478,6 +478,20 @@ position: relative;
     -webkit-box-shadow: 0px 0px 15px 15px #cf0f0f;
     opacity: 0.7;
 }
+.zoomMEXICO:hover{
+    border-radius:50%;
+    -webkit-border-radius:5%;
+    box-shadow: 0px 0px 15px 15px  #0fcf2f;
+    -webkit-box-shadow: 0px 0px 15px 15px #0fcf2f;
+    opacity: 0.7;
+}
+.zoomCHILE:hover{
+    border-radius:50%;
+    -webkit-border-radius:5%;
+    box-shadow: 0px 0px 15px 15px  #0d10dd;
+    -webkit-box-shadow: 0px 0px 15px 15px #0d10dd;
+    opacity: 0.7;
+}
 .border:hover{
     -webkit-transform:scale(1.1);
     transform:scale(1.1);
