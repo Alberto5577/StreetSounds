@@ -706,6 +706,8 @@ footer{
     grid-template-columns: repeat(auto-fill, 230px);
     gap: 20px;
     justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .grid-item{
