@@ -748,3 +748,35 @@ footer{
     margin-top: 15px;
     
 }
+.about-section{
+    background: url(img/imagenesgaleria/8.jpg) no-repeat left;
+    background-size: 55%;
+    background-color: #fff;
+    overflow: hidden;
+    padding: 100px 0;
+    font-family: "Open Sans", sans-serif;
+    box-sizing: border-box;
+}
+
+.inner-container{
+    width: 55%;
+    float: right;
+    background-color: #fff;
+    padding: 40px;
+}
+.text{
+    font-size: 13px;
+    color: #333;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+.skills{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 13px;
+}
+.imgAbout{
+    margin-left: 30px;
+}
