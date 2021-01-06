@@ -749,7 +749,7 @@ footer{
     
 }
 .about-section{
-    background: url(img/imagenesgaleria/8.jpg) no-repeat left;
+    background: url(img/gallery/8.jpg) no-repeat left;
     background-size: 55%;
     background-color: #fff;
     overflow: hidden;
@@ -757,7 +757,6 @@ footer{
     font-family: "Open Sans", sans-serif;
     box-sizing: border-box;
 }
-
 .inner-container{
     width: 55%;
     float: right;
@@ -770,7 +769,7 @@ footer{
     line-height: 30px;
     text-align: justify;
     margin-bottom: 40px;
-    margin-top: -46px;
+    margin-top: -26px;
 }
 .skills{
     display: flex;
