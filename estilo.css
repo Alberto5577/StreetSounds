@@ -666,11 +666,11 @@ footer{
     margin-bottom: 802px;
 }
 .fmsranking #one{
-    margin-top: 60px;
-    margin-left: 30px;
+    margin-top: 90px;
+    margin-left: 80px;
 }
 .fmsranking #two{
-    margin-top: -385px;
+    margin-top: -315px;
     margin-left: 550px;
 }
 .hrfms{
@@ -749,7 +749,7 @@ footer{
     
 }
 .about-section{
-    background: url(img/gallery/8.jpg) no-repeat left;
+    background: url(img/gallery/15.jpg) no-repeat left;
     background-size: 55%;
     background-color: #fff;
     overflow: hidden;
