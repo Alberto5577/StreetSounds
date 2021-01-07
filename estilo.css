@@ -785,3 +785,10 @@ footer{
     margin-top: -900px;
     margin-bottom: 800px;
 }
+.fmsh2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    margin-left: 70px;
+    color: #373737;
+}
